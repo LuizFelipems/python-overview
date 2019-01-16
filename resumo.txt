@@ -1,0 +1,47 @@
+Resumo do Python:
+
+- Python foi criada por Guido Van Rossum
+- Em 1990
+- 25/02/1991 primeira versão
+- Atual versão é a 3
+- A versão mais famosa é a 2.7
+- Dinâmica, fortemente tipada
+- Multi propósito
+- Multi-paradigma
+    Imperativa
+    Funcional
+    Orientada a Objetos
+    Reflectiva
+- Compilada e interpretada
+
+- Influenciada por: ABC, C, C++, Java...
+- Influenciou: Julia, Swift, Go
+
+# Instalação
+    Win: Baixar o instalador https://www.python.org/downloads/
+        Python no path: C:\Python34;C:\Python34\Scripts *OBS: A versão pode ser diferente.
+    Linux: sudo apt-get install python3
+# Extensões .py e .pyc
+
+# Comentários
+
+# Variáveis
+
+# Tipos de dados
+    Integer
+    String
+    Float
+    Lista
+    Tupla
+    Dicionário
+
+# Loops
+    For
+    While
+
+# Condicionais
+    if, else, elif
+
+# Funções 
+
+# Programação Orientada A Objetos
