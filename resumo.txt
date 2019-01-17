@@ -31,9 +31,10 @@ Resumo do Python:
     Integer
     String
     Float
-    Lista
-    Tupla
+    Lista # Lista = array
+    Tupla # tupla = struct no C
     Dicionário
+
 
 # Loops
     For
